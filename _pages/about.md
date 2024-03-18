@@ -16,5 +16,7 @@ social: false # includes social icons at the bottom of the page
 ---
 Welcome!
 
-I am currently a senior student at [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), and I will be pursuing a PhD in political science at [University of Michigan (Ann Arbor)](https://lsa.umich.edu/polisci) starting Fall 2024. My research interests lie in understanding migration behavior, particularly how migrants respond to various crises such as civil conflicts and natural disasters. You can see my CV [here](/cv/).
+I am currently a senior student at [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), and I will be pursuing a PhD in political science at [University of Michigan (Ann Arbor)](https://lsa.umich.edu/polisci) starting in Fall 2024. My research interests lie in understanding migration behavior, particularly how migrants respond to various crises such as civil conflicts and natural disasters. 
+
+For more details, check out my CV [here](https://drive.google.com/file/d/1xAMw9ib5DHUYpdTLeOEujr2KwPNEUUXB/view?usp=sharing).
 

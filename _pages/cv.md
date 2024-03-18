@@ -1,19 +1,8 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
+title: Curriculum Vitae
 nav: true
-heading: Curriculum Vitae
 ---
 
-<center>
-If the embedded version of my CV does not work, you can download a copy <a href="/assets/pdf/cv_umeyama_20240318.pdf" target="_blank">here</a>.
-</center>
-
-<br>
-
-<center>
-<object data="/assets/pdf/cv_umeyama_20240318.pdf"#view=FitH&pagemode=none" width="100%" height="800px" type="application/pdf">
-    <embed src="/assets/pdf/cv_umeyama_20240318.pdf"#view=FitH&pagemode=none" width="100%" height="800px" type="application/pdf" />
-</object>
-</center>
+You can view my CV [here](https://drive.google.com/file/d/1xAMw9ib5DHUYpdTLeOEujr2KwPNEUUXB/view?usp=sharing).
