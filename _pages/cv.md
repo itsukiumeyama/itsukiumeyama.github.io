@@ -1,11 +1,17 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: "CV"
+description: 
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 2
 ---
+
+<object 
+    data="{{ site.baseurl }}/assets/path/to/cv_umeyama.pdf" 
+    width="1000" 
+    height="1000" 
+    type="application/pdf">
+    Please find my CV  
+    <a href="../assets/pdf/cv_umeyama.pdf" target="_blank">here</a>.
+</object>
