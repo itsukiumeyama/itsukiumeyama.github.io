@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <object 
-    data="{{ site.baseurl }}/assets/path/to/cv_umeyama.pdf" 
+    data="../assets/pdf/cv_umeyama.pdf" 
     width="1000" 
     height="1000" 
     type="application/pdf">
