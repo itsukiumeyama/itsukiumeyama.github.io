@@ -1,0 +1,20 @@
+---
+title: "Itsuki Umeyama"
+subtitle: |
+ Ph.D. Student \
+ University of Michigan
+image: itsuki.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/itsukiumeyama
+---
+
+I am a Ph.D. student in the Department of Political Science at the University of Michigan.
+
+I study comparative politics and historical political economy. My research investigates the political and social mechanisms of nation-building in imperial and post-imperial contexts, with a regional focus on Japan. I am particularly interested in how the Japanese empire mobilized civilian populations to support its colonial and militarist agendas—both in overseas territories such as Manchuria and in peripheral regions like Okinawa.
+
+I received my B.A. in Liberal Arts (International Relations) from the University of Tokyo in 2024.

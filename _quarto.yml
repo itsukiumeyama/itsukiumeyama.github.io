@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Itsuki Umeyama"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  #page-footer: "Made with ❤️ and Quarto"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: CV
+        href: cv_umeyama.pdf
+      
+format:
+  html:
+    mainfont: "sarif"
+    fontsize: 19.5px
+    theme: [cosmo, styles.scss]
+
