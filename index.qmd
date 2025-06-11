@@ -7,10 +7,11 @@ image: itsuki.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
   image-shape: round
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/itsukiumeyama
+  image-width: 250px
+  #links:
+    #- icon: github
+    #  text: Github
+    #  href: https://github.com/itsukiumeyama
 ---
 
 I am a Ph.D. student in the Department of Political Science at the University of Michigan.
